@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>M G</title>
+  
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://michaelgospel.com/"/>
+  <updated>2018-05-01T14:06:36.195Z</updated>
+  <id>https://michaelgospel.com/</id>
+  
+  <author>
+    <name>Michael Gospel</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>独立博客</title>
+    <link href="https://michaelgospel.com/2018/06/04/%E7%8B%AC%E7%AB%8B%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://michaelgospel.com/2018/06/04/独立博客/</id>
+    <published>2018-06-04T14:38:18.514Z</published>
+    <updated>2018-05-01T14:06:36.195Z</updated>
+    
+    <content type="html"><![CDATA[<hr>
+<h3 id="hexo-github博客搭建教程"><a href="#hexo-github博客搭建教程" class="headerlink" title="hexo+github博客搭建教程"></a>hexo+github博客搭建教程</h3><blockquote>
+<ul>
+<li><a href="https://blog.csdn.net/AinUser/article/details/77609180" target="_blank" rel="external">https://blog.csdn.net/AinUser/article/details/77609180</a></li>
+<li><a href="http://theme-next.iissnan.com/" target="_blank" rel="external">http://theme-next.iissnan.com/</a></li>
+<li><a href="https://hexo.io/zh-cn/docs/" target="_blank" rel="external">https://hexo.io/zh-cn/docs/</a></li>
+</ul>
+</blockquote>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;hr&gt;
+&lt;h3 id=&quot;hexo-github博客搭建教程&quot;&gt;&lt;a href=&quot;#hexo-github博客搭建教程&quot; class=&quot;headerlink&quot; title=&quot;hexo+github博客搭建教程&quot;&gt;&lt;/a&gt;hexo+github博客搭建教程&lt;/h3&gt;&lt;blockqu
+    
+    </summary>
+    
+      <category term="生活" scheme="https://michaelgospel.com/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+    
+      <category term="随笔" scheme="https://michaelgospel.com/tags/%E9%9A%8F%E7%AC%94/"/>
+    
+  </entry>
+  
+</feed>
